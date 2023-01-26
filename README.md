@@ -27,11 +27,7 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 
 
 ### 🧰 Languages and Tools
-[![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&message=2.x&color=blue&logo=TensorFlow&style=flat&logoColor=white)](https://www.tensorflow.org/)
-[![Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&logo=python&style=flat&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/static/v1?label=R&message=3.6&color=blue&logo=R&style=flat&logoColor=white)](https://www.r-project.org/)
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.45/vue.cjs.js" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -43,6 +39,10 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+[![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&message=2.x&color=blue&logo=TensorFlow&style=flat&logoColor=white)](https://www.tensorflow.org/)
+[![Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&logo=python&style=flat&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/static/v1?label=R&message=3.6&color=blue&logo=R&style=flat&logoColor=white)](https://www.r-project.org/)
 
 <details>
  <summary><h3>👨‍💻 Younes's Coding Journey</h3></summary>
