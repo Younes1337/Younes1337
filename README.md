@@ -43,6 +43,10 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 [![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&message=2.x&color=blue&logo=TensorFlow&style=flat&logoColor=white)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/static/v1?label=Python&message=3.7&color=blue&logo=python&style=flat&logoColor=white)](https://www.python.org/)
 [![R](https://img.shields.io/static/v1?label=R&message=3.6&color=blue&logo=R&style=flat&logoColor=white)](https://www.r-project.org/)
+[![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.x&color=red&logo=PyTorch&style=flat&logoColor=white)](https://pytorch.org/)
+[![Hugging face](https://img.shields.io/static/v1?label=Hugging%20face&message=transformers&color=blue&logo=hugging-face-transformers&style=flat&logoColor=white)](https://huggingface.co/)
+[![Transformers](https://img.shields.io/static/v1?label=Transformers&message=2.x&color=green&logo=hugging-face-transformers&style=flat&logoColor=white)](https://huggingface.co/transformers/)
+
 
 <details>
  <summary><h3>👨‍💻 Younes's Coding Journey</h3></summary>
