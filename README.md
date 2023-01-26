@@ -1,6 +1,6 @@
 # 🏄‍♂️ Younes MAMMA
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer&DataScientist/YounesMAMMA/Creator)`**
 
 I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Younes Mamma][youtube]" where i made a bombination of AI and software development.
 
@@ -33,23 +33,6 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-
-<!-- END YOUTUBE-CARDS -->
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
