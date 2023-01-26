@@ -15,7 +15,7 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 
 
 ### My Roles
-- 🔭 I’m currently working as a Developer Internship at [**A Digital Marketing Agency**](https://yanecode.org/)
+- 🔭 I’m currently working as a Developer Internship at [**A Digital Marketing Agency**](https://yanecode.com/)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on ...
@@ -27,7 +27,7 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 
 
 ### 🧰 Languages and Tools
-
+[![TensorFlow](https://img.shields.io/static/v1?label=TensorFlow&message=2.x&color=blue&logo=TensorFlow&style=flat&logoColor=white)](https://www.tensorflow.org/)
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
