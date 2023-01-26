@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer&DataScientist/YounesMAMMA/Creator)`**
 
-I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Younes Mamma][youtube]" where i made a bombination of AI and software development.
+I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[Younes Mamma][youtube]" where i made a combination of AI and software development.
 
    <p align="left">
       <a href="https://github.com/ForrestKnight?tab=followers">
