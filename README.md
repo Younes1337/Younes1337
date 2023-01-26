@@ -45,7 +45,6 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 [![R](https://img.shields.io/static/v1?label=R&message=3.6&color=blue&logo=R&style=flat&logoColor=white)](https://www.r-project.org/)
 [![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.x&color=red&logo=PyTorch&style=flat&logoColor=white)](https://pytorch.org/)
 [![Hugging face](https://img.shields.io/static/v1?label=Hugging%20face&message=transformers&color=blue&logo=hugging-face-transformers&style=flat&logoColor=white)](https://huggingface.co/)
-[![Transformers](https://img.shields.io/static/v1?label=Transformers&message=2.x&color=green&logo=hugging-face-transformers&style=flat&logoColor=white)](https://huggingface.co/transformers/)
 
 
 <details>
@@ -55,33 +54,13 @@ I'm an Younes MAMMA a **Data Scientist** and **Machine Learning Engineer** . All
 [website]: https://younes-mamma.com
 [youtube]: https://youtube.com/younesMamma
    
-   
-   
-   
-   
-   
-   
-   ### Hey👋, I'm __Thinam Tamang__ !:computer:
-
-I am a deep learning and machine learning practitioner and learner. Solving a problem and gaining insights with the help of machine learning algorithms has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
-
-<!-- I'm **Thinam Tamang**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**. I'm here to solve things, Learning a lot in the Process. -->
-
-**Publication:**  
-- [**Classification of White Blood Cells: A Comprehensive Study Using Transfer Learning Based on Convolutional Neural Networks**](https://www.mdpi.com/2075-4418/12/12/2903)
-- [**Toward insights on antimicrobial selectivity of host defense peptides via machine learning model interpretation**](https://doi.org/10.1016/j.ygeno.2021.08.023)  
-
-**Updates:**
-- 🔭 I’m currently working as a Machine Learning Engineer at [**Speechify**](https://speechify.com/)
-- 🌱 I’m currently learning **NLP**. 
-- 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
-
+<!--
 ### Connect with me 🤝:
 <a href="https://www.linkedin.com/in/thinam-tamang/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/linkedin.png" alt="ThinamXx | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/thinamcodes__/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/instagram.png" alt="ThinamXx | Instagram" width="21px"/></a>
 <a href="https://thinamxx.github.io/thinam.ai/"><img align="left" src="https://github.com/ThinamXx/ThinamXx/blob/master/images/medium.png" alt="ThinamXx | Medium" width="21px"/></a>
 </br>
-
+-->
 
    
    
