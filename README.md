@@ -13,9 +13,9 @@
 
 - Loves a freshly brewed cup of coffee & some walking
 
-<img align="left" width="400" alt="🦑" src="https://github.com/NouamaneTazi/NouamaneTazi/blob/main/metrics.svg">
+<img align="left" width="400" alt="🦑" src="https://github.com/Younes1337/Younes1337/blob/main/metrics.svg">
 
-<img align="right" width="100%" alt="🦑" src="https://github.com/NouamaneTazi/NouamaneTazi/blob/main/metrics.topics.mastered.svg">
+<img align="right" width="100%" alt="🦑" src="https://github.com/Younes1337/Younes1337/blob/main/metrics.topics.mastered.svg">
 
 
-<img align="right" width="100%" alt="🦑" src="https://github.com/NouamaneTazi/NouamaneTazi/blob/main/metrics.personal.achievements.svg">
+<img align="right" width="100%" alt="🦑" src="https://github.com/Younes1337/Younes1337/blob/main/metrics.personal.achievements.svg">
